@@ -1,5 +1,3 @@
-package cicdjenkins;
-
 public class Factorial {
     static int factorial(int n) {
         int fact=1;
